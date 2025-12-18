@@ -1,0 +1,226 @@
+{
+    "about": {
+        "name": "SAMUEL SORETIRE",
+        "title": "Crypto & Forex Trading Mentor",
+        "tagline": "Empowering Traders to Succeed and Grow Their Wealth",
+        "description": "I help individuals and businesses grow through proven trading techniques, mentorship, and actionable insights in the crypto and forex markets.",
+        "bio": "With years of hands-on experience in volatile markets, I've developed a proven framework for sustainable trading success. My journey began with mastering technical analysis and evolved into creating systematic approaches that work in both crypto and forex markets.",
+        "mission": "To democratize trading education and provide traders with the tools, community, and mentorship needed to achieve consistent profitability.",
+        "image": "/images/profile.jpg",
+        "stats": [
+            {
+                "value": "8+",
+                "label": "Years Experience",
+                "icon": "TrendingUp"
+            },
+            {
+                "value": "500+",
+                "label": "Students Mentored",
+                "icon": "Users"
+            },
+            {
+                "value": "$10M+",
+                "label": "Portfolios Managed",
+                "icon": "Briefcase"
+            },
+            {
+                "value": "95%",
+                "label": "Success Rate",
+                "icon": "Award"
+            }
+        ],
+        "values": [
+            {
+                "title": "Transparency",
+                "description": "Clear, honest communication about strategies, risks, and expected outcomes.",
+                "icon": "Eye"
+            },
+            {
+                "title": "Education First",
+                "description": "Focus on teaching sustainable skills rather than just providing signals.",
+                "icon": "GraduationCap"
+            },
+            {
+                "title": "Community Driven",
+                "description": "Success is amplified when traders support each other's growth.",
+                "icon": "HeartHandshake"
+            },
+            {
+                "title": "Results Oriented",
+                "description": "Every strategy is tested and proven in real market conditions.",
+                "icon": "Target"
+            }
+        ],
+        "journey": [
+            {
+                "year": "2016",
+                "title": "Trading Journey Begins",
+                "description": "Started trading forex while working in finance, developed passion for markets"
+            },
+            {
+                "year": "2018",
+                "title": "Crypto Market Entry",
+                "description": "Expanded into cryptocurrency trading during the bull market"
+            },
+            {
+                "year": "2020",
+                "title": "Mentorship Program Launch",
+                "description": "Started formal mentorship to help others avoid common trading mistakes"
+            },
+            {
+                "year": "2022",
+                "title": "LegacyOfBuga Academy",
+                "description": "Launched structured courses and premium community platform"
+            },
+            {
+                "year": "2024",
+                "title": "Global Community",
+                "description": "Expanded to serve 1000+ traders worldwide across 30+ countries"
+            }
+        ],
+        "expertise": [
+            {
+                "category": "Technical Analysis",
+                "skills": [
+                    "Price Action",
+                    "Indicators & Oscillators",
+                    "Chart Patterns",
+                    "Market Structure"
+                ],
+                "level": 95
+            },
+            {
+                "category": "Risk Management",
+                "skills": [
+                    "Position Sizing",
+                    "Stop Loss Strategies",
+                    "Portfolio Allocation",
+                    "Risk/Reward Analysis"
+                ],
+                "level": 98
+            },
+            {
+                "category": "Market Psychology",
+                "skills": [
+                    "Emotional Control",
+                    "Trading Discipline",
+                    "Mindset Coaching",
+                    "Decision Making"
+                ],
+                "level": 92
+            },
+            {
+                "category": "Strategy Development",
+                "skills": [
+                    "System Creation",
+                    "Backtesting",
+                    "Automation",
+                    "Performance Tracking"
+                ],
+                "level": 90
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Certified Financial Technician",
+                "issuer": "International Federation of Technical Analysts",
+                "year": "2021"
+            },
+            {
+                "name": "Blockchain & Crypto Trading Specialist",
+                "issuer": "Crypto Trading University",
+                "year": "2022"
+            },
+            {
+                "name": "Advanced Risk Management",
+                "issuer": "Professional Risk Managers' Association",
+                "year": "2023"
+            }
+        ],
+        "cta": {
+            "primary": "Book Free Consultation",
+            "secondary": "Download Trading Guide",
+            "contact": "contact@legacyofbuga.com"
+        }
+    },
+    "social": {
+        "floatingButton": {
+            "position": "right",
+            "icon": "MessageCircle",
+            "tooltip": "Connect with me",
+            "openTooltip": "Close menu",
+            "animation": "bounce"
+        },
+        "platforms": [
+            {
+                "name": "WhatsApp",
+                "icon": "Whatsapp",
+                "url": "https://wa.me/your-number",
+                "color": "#25D366",
+                "description": "Chat directly",
+                "tooltip": "Message on WhatsApp"
+            },
+            {
+                "name": "Telegram",
+                "icon": "Send",
+                "url": "https://t.me/your-username",
+                "color": "#0088cc",
+                "description": "Join channel",
+                "tooltip": "Connect on Telegram"
+            },
+            {
+                "name": "X (Twitter)",
+                "icon": "Twitter",
+                "url": "https://twitter.com/your-handle",
+                "color": "#000000",
+                "description": "Follow updates",
+                "tooltip": "Follow on X"
+            },
+            {
+                "name": "Facebook",
+                "icon": "Facebook",
+                "url": "https://facebook.com/your-page",
+                "color": "#1877F2",
+                "description": "Like page",
+                "tooltip": "Connect on Facebook"
+            },
+            {
+                "name": "Instagram",
+                "icon": "Instagram",
+                "url": "https://instagram.com/your-handle",
+                "color": "#E4405F",
+                "description": "Follow stories",
+                "tooltip": "Follow on Instagram"
+            },
+            {
+                "name": "LinkedIn",
+                "icon": "Linkedin",
+                "url": "https://linkedin.com/in/your-profile",
+                "color": "#0A66C2",
+                "description": "Professional network",
+                "tooltip": "Connect on LinkedIn"
+            },
+            {
+                "name": "YouTube",
+                "icon": "Youtube",
+                "url": "https://youtube.com/c/your-channel",
+                "color": "#FF0000",
+                "description": "Watch tutorials",
+                "tooltip": "Subscribe on YouTube"
+            },
+            {
+                "name": "Discord",
+                "icon": "MessageSquare",
+                "url": "https://discord.gg/your-invite",
+                "color": "#5865F2",
+                "description": "Join community",
+                "tooltip": "Join Discord server"
+            }
+        ],
+        "contact": {
+            "email": "contact@legacyofbuga.com",
+            "phone": "+1 (555) 123-4567",
+            "availability": "Mon-Fri, 9AM-6PM EST"
+        }
+    }
+}
